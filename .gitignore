@@ -1,0 +1,20 @@
+# Specify filepatterns you want git to ignore.
+
+.ipynb_checkpoints/
+__pycache__/
+data/
+log/
+output/
+render_data/
+.vscode/
+tb/
+.history/
+
+*.ipynb
+*.ui
+*.npy
+*.npz
+*.h5
+*.pth
+*.txt
+*.log
