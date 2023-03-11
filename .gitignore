@@ -9,6 +9,7 @@ render_data/
 .vscode/
 tb/
 .history/
+checkpoint/
 
 *.ipynb
 *.ui
