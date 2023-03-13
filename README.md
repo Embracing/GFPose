@@ -89,7 +89,7 @@ python -m run.visualize --num-human 1 --num-hypo 80 --vis-gt
 </p>
 
 
-### Task2 - 2D Pose Completion from occlusion
+### Task2 - Pose Completion (Incomplete 2D -> 3D)
 
 Evaluate with 200 hypotheses and 2 randomly selected missing joints.
 
@@ -113,7 +113,7 @@ python -m run.visualize --num-human 1 --num-hypo 40 --vis-gt
   <img width=100% src="docs/web_completion2D.gif" />
 </p>
 
-### Task3 - 3D Pose Completion from missing joints
+### Task3 - Pose Completion (Incomplete 3D -> 3D)
 
 Evaluate with 1 hypothesis and 3 randomly selected missing joints.
 
