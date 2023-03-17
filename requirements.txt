@@ -1,0 +1,6 @@
+numpy
+scipy
+absl-py
+ml-collections
+prettytable
+tensorboardX

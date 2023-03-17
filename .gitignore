@@ -17,5 +17,4 @@ checkpoint/
 *.npz
 *.h5
 *.pth
-*.txt
 *.log
