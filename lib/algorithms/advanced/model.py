@@ -10,14 +10,8 @@ import argparse
 import functools
 from collections import deque
 
-import cv2
 import numpy as np
-# import pybullet as p
-# import pybullet_data
 from scipy import integrate
-# from ipdb import set_trace
-from tqdm import tqdm, trange
-
 
 import torch
 import torch.nn as nn

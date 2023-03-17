@@ -27,15 +27,12 @@ by [Hai Ci](https://haici.cc), [Mingdong Wu](https://aaronanima.github.io/), [We
 ## Main requirements
 
 * python >= 3.9
-* numpy
-* scipy
 * pytorch
-* pprint
-* absl-py
-* ml-collections
-* prettytable
-* tensorboardX
 * [3DPoseViewer (for visualization)](https://github.com/Embracing/3DPoseViewer)
+
+```bash
+pip install -r requirements.txt
+```
 
 ## File structure
 
